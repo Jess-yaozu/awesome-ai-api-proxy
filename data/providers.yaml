@@ -593,7 +593,7 @@ global_gateways:
     type: aggregator
     status: unverified
     payment: [card]
-    models: [openai, anthropic, gemini, glm, minimax, deepseek, kimi, hunyuan]
+    models: [openai, anthropic, gemini, zhipu, minimax, deepseek, moonshot, hunyuan]
     last_verified: null
     verified_by: community
     entity_registered: true
